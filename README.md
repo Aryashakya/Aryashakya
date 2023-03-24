@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Shakya</h1>
+
 - 🔭 I’m currently working on [Nepal Lipi Text Recognition System](https://www.facebook.com/project.aakhah)
 
 - 🌱 I’m currently learning **Deep Learning**
