@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryashakya&show_icons=true&locale=en" alt="aryashakya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashakya&" alt="aryashakya" /></p>
+
+[![An image of @aryashakya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryashakya)](https://holopin.io/@aryashakya)
