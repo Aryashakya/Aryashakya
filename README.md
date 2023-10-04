@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashakya&" alt="aryashakya" /></p>
 
 [![An image of @aryashakya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryashakya)](https://holopin.io/@aryashakya)
+
+[![Aryashakya's GitHub | Stats](https://stats.quine.sh/Aryashakya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aryashakya)
